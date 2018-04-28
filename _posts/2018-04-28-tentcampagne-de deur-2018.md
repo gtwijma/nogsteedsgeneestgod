@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Tentcampagne Evangeliegemeente De Deur 2018"
-date:   2018-03-05 19:09:23 +0100
+date:   2018-04-27 20:17:00 +0100
 categories: tentcampagne
 ---
 Van donderdag 9 t/m zondag 12 augustus 2018 zullen er speciale genezingsdiensten worden gehouden op het evenemententerrein Lijm en Cultuur aan de Rotterdamseweg in Delft. Deze diensten, door Evangeliegemeente De Deur Delft georganiseerd, zijn vrij toegankelijk voor iedereen. In de avondsamenkomsten zal er gebed zijn voor zieken door pastor Wayman O. Mitchell uit Prescott, Arizona (VS) die over de hele wereld preekt en bidt voor zieken en vele wonderen en genezingen ziet gebeuren in de naam van Jezus Christus. Pastor Mitchell is de oprichter en leider van Christian Fellowship Ministries, een gemeenschap van ruim 2200 kerken over de hele wereld, waar ook evangeliegemeente De Deur Delft deel van uitmaakt.
