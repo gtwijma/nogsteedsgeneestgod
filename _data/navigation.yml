@@ -1,3 +1,5 @@
 main:
   - title: "Geschiedenis"
     url: /geschiedenis/
+  - title: "Waarom"
+    url: /waarom/
