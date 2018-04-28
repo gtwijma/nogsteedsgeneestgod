@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "nl-NL"
 title                    : "Nog steeds geneest God."
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Evangeliegemeente De Deur"
 description              : "Tentcampagne evangeliegemeneente De Deur Delft."
 url                      : "//www.nogsteedsgeneestgod.nl"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : false # true (default), false
 
 # SEO Related
 google_site_verification :
@@ -256,7 +256,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
