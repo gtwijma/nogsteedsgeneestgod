@@ -11,4 +11,4 @@ Zoals ook te lezen is onder het kopje “Waarom verwachten wij wonderen van gene
 
 Daarnaast zijn er talrijke evangelisten bekend, waaronder John Wesley (18e eeuw, Engeland), John Whitefield (18e eeuw, Engeland), Smith Wigglesworth 19e en begin 20e eeuw, Engeland/VS), Charles Finney (19e eeuw, VS), William Booth (19e eeuw, Engeland), Reinhard Bonnke (20e eeuw tot op heden, Duitsland/Afrika), die grote campagnes hielden en houden, waarbij grote wonderen plaatsvonden en –vinden. Hierover is desgewenst op Wikipedia veel informatie te vinden.
 
-Evangeliegemeente De Deur in Nederland organiseert al zo’n 20 jaar lang regelmatig tent-campagnes met diverse predikers. Sinds ongeveer 6 jaar is het een gewoonte geworden dat pastor W. Mitchell jaarlijks in augustus naar Nederland komt en op een driedaagse genezingscampagne preekt en bidt voor de zieken.
+Evangeliegemeente De Deur in Nederland organiseert al zo’n 20 jaar lang regelmatig tent-campagnes met diverse predikers. Sinds 2005 is het een gewoonte geworden dat pastor W. Mitchell jaarlijks in augustus naar Nederland komt en op een driedaagse genezingscampagne preekt en bidt voor de zieken.
