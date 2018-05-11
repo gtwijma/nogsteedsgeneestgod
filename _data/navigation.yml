@@ -3,5 +3,7 @@ main:
     url: /geschiedenis/
   - title: "Waarom"
     url: /waarom/
+  - title: "Route"
+    url: /route/
   - title: "Contact"
     url: /contact/
