@@ -1,4 +1,6 @@
 main:
+  - title: "Programma"
+    url: /programma/
   - title: "Geschiedenis"
     url: /geschiedenis/
   - title: "Waarom"

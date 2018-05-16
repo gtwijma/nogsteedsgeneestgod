@@ -36,7 +36,7 @@ Neem op de A13 afslag 10 (N470, Delft-Zuid).
 * Bij stoplichten rechtsaf, TU Delft – Delftech park.
 * Zie verder beschrijving vanuit richting Rotterdam.
 
-!\[Routebeschrijving auto\]({{ "/assets/images/route-auto-lijm-en-cultuur.png" }})
+![Routebeschrijving auto]({{ "/assets/images/route-auto-lijm-en-cultuur.png" }})
 
 ## OV vanuit richting Rotterdam
 
@@ -56,7 +56,7 @@ Of met buslijn 40 vanaf Station Rotterdam Centraal. Uitstappen halte TU-Mekelpar
 
 Plan je reis en kijk voor vertrek op [www.9292ov.nl](http://www.9292ov.nl/){:target="_blank"} voor de meest recente dienstregeling.
 
-!\[Routebeschrijving ov\]({{ "/assets/images/route-ov-lijm-en-cultuur.png" }})
+![Routebeschrijving ov]({{ "/assets/images/route-ov-lijm-en-cultuur.png" }})
 
 ## OV vanuit richting Amsterdam / Den Haag
 
