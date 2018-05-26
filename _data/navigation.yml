@@ -1,11 +1,13 @@
 main:
   - title: "Programma"
     url: /programma/
-  - title: "Geschiedenis"
-    url: /geschiedenis/
-  - title: "Waarom"
-    url: /waarom/
+  - title: "Video"
+    url: /video/
   - title: "Route"
     url: /route/
   - title: "Contact"
     url: /contact/
+  - title: "Geschiedenis"
+    url: /geschiedenis/
+  - title: "Waarom"
+    url: /waarom/
