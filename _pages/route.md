@@ -29,6 +29,8 @@ Neem op de A13 afslag 10 (N470, Delft-Zuid) en volg richting TU Delft:
 * Na 600 meter rechtsaf (Rotterdamseweg).
 * Na 1000 meter draait u links het terrein op van Lijm & Cultuur.
 
+Er bevinden zich voldoende gratis parkeerplaatsen op het aangrenzende terrein van de Technische Universiteit. 
+
 ## Auto vanuit richting Amsterdam/Den Haag
 
 Neem op de A13 afslag 10 (N470, Delft-Zuid).
