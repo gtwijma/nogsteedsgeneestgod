@@ -5,7 +5,7 @@ date: 2018-04-27 19:17:00 +0000
 categories: tentcampagne
 permalink: "/geschiedenis/"
 ---
-Evangeliegemeente De Deur heeft het begrip ‘genezingsdiensten’ niet zelf ‘uitgevonden’. Hoewel sommigen misschien sceptisch zeggen dat het iets van de laatste tijd is van sommige pinksterbewegingen – een soort trend – om genezingsdiensten te houden, zal het u misschien verbazen dat er in de jaren ’50 – om precies te zijn 54 jaar geleden in 1958 – al een grote genezingscampagne in Nederland was. De evangelist T.L. Osborn was toen zowel in Den Haag als in Groningen en hield genezingsdiensten met massale opkomsten waarbij ontelbare wonderen plaatsvonden. Deze beweging werd later het “Holland Wonder” genoemd.
+Evangeliegemeente De Deur heeft het begrip ‘genezingsdiensten’ niet zelf ‘uitgevonden’. Hoewel sommigen misschien sceptisch zeggen dat het iets van de laatste tijd is van sommige pinksterbewegingen – een soort trend – om genezingsdiensten te houden, zal het u misschien verbazen dat er in de jaren ’50 – om precies te zijn 60 jaar geleden in 1958 – al een grote genezingscampagne in Nederland was. De evangelist T.L. Osborn was toen zowel in Den Haag als in Groningen en hield genezingsdiensten met massale opkomsten waarbij ontelbare wonderen plaatsvonden. Deze beweging werd later het “Holland Wonder” genoemd.
 
 Zoals ook te lezen is onder het kopje “Waarom verwachten wij wonderen van genezing?”, is het dezelfde Jezus die 2000 jaar geleden mensen genas, die ons belooft dat Hij ook vandaag nog mensen geneest. Onder dat motto (“Jezus Christus is gisteren en heden dezelfde”) organiseerde evangelist Osborn wereldwijd genezingscampagnes.
 
