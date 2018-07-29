@@ -1,18 +1,18 @@
 ---
 layout: single
 title: Getuigenissen
-date: 2018-05-26 10:00:00 +0000
+date: 2018-07-29 08:00:00 +0000
 categories: tentcampagne
 permalink: "/getuigenissen/"
 ---
-- [“Een antwoord op gebed” Nico Nijman](#nico)
+- [“Een antwoord op gebed” Nico](#nico)
 - [“Allergisch voor melkeiwit, genezen door gebed” Matthijs](#matthijs)
 - [“Ontwaakt uit coma, genezen van verlamming” Justine](#justine)
 - [“Genezen van hersenschudding” Geke](#geke)
 
 ### <a name="nico"></a>Nico Nijman
 <img style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/uploads/2018/05/26/nico-nijman.jpg">
-In juni 2010 werd ik opgenomen in het ziekenhuis met ernstig hartfalen. De pompfunctie van mijn linker hartkamer bedroeg nog maar 39%. Daarnaast had ik last van hartritmestoornissen. Ondanks allerlei onderzoeken werd de oorzaak van mijn klachten niet gevonden. Volgens de artsen was er geen genezing mogelijk. Ik moest er maar mee leren leven, hopend dat mijn pompfunctie niet nog verder zou afnemen. De afgelopen twee jaar heb ik voornamelijk op bed door gebracht en gebruikte ik veel medicijnen en had een zwaar dieet. Als mijn pompfunctie nog verder achteruit zou gaan, zou dit een verdere onherstelbare schade te weeg brengen. Beter zou het in ieder geval niet worden. Mijn baan en een normaal sociaal leven kon ik verder wel vergeten.
+In juni 2010 werd ik opgenomen in het ziekenhuis met ernstig hartfalen. De pompfunctie van mijn linker hartkamer bedroeg nog maar 39%. Daarnaast had ik last van hartritmestoornissen. Ondanks allerlei onderzoeken werd de oorzaak van mijn klachten niet gevonden. Volgens de artsen was er geen genezing mogelijk. Ik moest er maar mee leren leven, hopend dat mijn pompfunctie niet nog verder zou afnemen. De daarop volgende twee jaar heb ik voornamelijk op bed door gebracht en gebruikte ik veel medicijnen en had een zwaar dieet. Als mijn pompfunctie nog verder achteruit zou gaan, zou dit een verdere onherstelbare schade te weeg brengen. Beter zou het in ieder geval niet worden. Mijn baan en een normaal sociaal leven kon ik verder wel vergeten.
 
 Op 15 april 2012 kwam er tijdens een zondagochtenddienst een Amerikaanse gastprediker naar me toe en gaf mij een woord dat God de komende zes maanden een groot wonder in mijn leven zou gaan doen. Op 22 mei 2012 moest ik weer voor controle naar het ziekenhuis. Daar zei de cardioloog tegen mij: “dit is eigenlijk onmogelijk, maar er is nog steeds niets mis met mijn ogen, je hartpompfunctie is verbeterd naar 49% (een normale pompfunctie bedraagt 55%). We kunnen de medicijnen langzaam gaan afbouwen”.
 
