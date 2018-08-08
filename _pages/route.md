@@ -65,7 +65,3 @@ Plan je reis en kijk voor vertrek op [www.9292ov.nl](http://www.9292ov.nl/){:tar
 Stoptrein Delft Zuid, ongeveer 13 minuten lopen (zie beschrijving vanuit richting Rotterdam).
 
 Of met buslijn 40 of 69 vanaf station Delft. Uitstappen halte TU-Mekelpark (zie beschrijving vanuit richting Rotterdam).
-
-## Eten en drinken
-
-Combineer uw bezoek aan onze tentcampagne met een fantastische lunch en/of diner in het restaurant van Lijm & Cultuur naast de tent. U kunt alleen online maaltijdbonnen bestellen (dus niet aan de kassa). Let op: U kunt bestellen tot uiterlijk dinsdag 7 augustus via [www.lijmencultuur.nl](https://www.lijmencultuur.nl){:target="_blank"}
