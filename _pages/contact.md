@@ -8,6 +8,8 @@ permalink: "/contact/"
 Hebt u vragen of opmerkingen? Stuur ons een [e-mail](mailto:info@dedeurrotterdam.nl), bel 06 - 41 95 22 27 of stuur ons een WhatsApp-bericht.
 
 <strong>Contactgegevens</strong>  
+
 Evangeliegemeente De Deur Rotterdam 
- \ n \ nBollenland 55, 3075 DC  ROTTERDAM
- \ n \ n[www.dedeurrotterdam.nl](http://www.dedeurrotterdam.nl){:target="_blank"}
+---
+Bollenland 55, 3075 DC  ROTTERDAM
+[www.dedeurrotterdam.nl](http://www.dedeurrotterdam.nl){:target="_blank"}
