@@ -10,7 +10,5 @@ Hebt u vragen of opmerkingen? Stuur ons een [e-mail](mailto:info@dedeurrotterdam
 <strong>Contactgegevens</strong>  
 
 Evangeliegemeente De Deur Rotterdam
-intro:
 Bollenland 55, 3075 DC  ROTTERDAM
 [www.dedeurrotterdam.nl](http://www.dedeurrotterdam.nl){:target="_blank"}
-{% include feature_row id = "intro" type = "none"%}
