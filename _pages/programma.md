@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Programma
-date: 2018-08-01 15:00:00 +0000
+date: 2019-06-21 20:00:00 +0000
 categories: tentcampagne
 permalink: "/programma/"
 ---
