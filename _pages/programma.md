@@ -7,4 +7,4 @@ permalink: "/programma/"
 ---
 ![](/uploads/2018/05/16/programma-tentcampagne-de-deur-delft.jpg)
 
-![](/uploads/2019/06/21/Programma-Genezingsdienst-Rotterdam.jpg)
+![Spinozapark](/assets/images/Programma-Genezingsdienst-Rotterdam.jpg)
