@@ -7,4 +7,4 @@ permalink: "/programma/"
 ---
 ![](/uploads/2018/05/16/programma-tentcampagne-de-deur-delft.jpg)
 
-![Programma-Genezingsdienst-Rotterdam](/assets/images/Programma-Genezingsdienst-Rotterdam.jpg)
+![Genezingsdienst Rotterdam](/assets/images/Programma-Genezingsdienst-Rotterdam.jpg)
