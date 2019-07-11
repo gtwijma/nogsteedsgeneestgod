@@ -14,74 +14,35 @@ Guido Gezelleweg 1802
 
 ![Spinozapark](/assets/images/park.png)
 
----
-layout: single
-title: Route
-date: 2018-05-11 10:00:00 +0000
-categories: tentcampagne
-permalink: "/route/"
----
-## Locatie tent
-
-Evenemententerrein Lijm & Cultuur  
-Rotterdamseweg 272  
-2628 AT Delft
-<iframe
-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19652.847800042735!2d4.370322000000001!3d51.995835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x943dcb3079db9b89!2sLijm+%26+Cultuur!5e0!3m2!1sen!2sus!4v1526032184155"
-frameborder="0"
-width="100%"
-height="400"
-style="border:0"
-allowfullscreen></iframe>
-
 ## Auto vanuit richting Rotterdam
 
-Neem op de A13 afslag 10 (N470, Delft-Zuid) en volg richting TU Delft:
+* Neem de A4 naar de Victor Hugoweg/S123/S124/S126 in IJsselmonde, Rotterdam.
+* Neem de afrit bij knooppunt Benelux vanaf de A4.
+* Volg de 2 rechterrijstroken om rechtsaf te slaan naar de Victor Hugoweg/de S123/de S124/de S126 (borden naar Clara).
+* Sla rechtsaf naar de Guido Gezelleweg. 
+* Sla linksaf om op de Guido Gezelleweg te blijven.
 
-* Neem na driekwart rotonde meteen de 1e afslag TU Delft – Delftech park.
-* Onderaan de afrit linksaf (Schoemakerstraat) richting P Rotterdamseweg.
-* Onder viaduct door, rechtdoor (Uytenbogaartsingel).
-* Na 500 meter rechtsaf (Heertjeslaan), volg borden Industrieterrein Rotterdamseweg.
-* Na 600 meter rechtsaf (Rotterdamseweg).
-* Na 1000 meter draait u links het terrein op van Lijm & Cultuur.
-
-Er bevinden zich voldoende gratis parkeerplaatsen op het aangrenzende terrein van de Technische Universiteit. 
+Parkeren is mogelijk in de directe omgeving.
 
 ## Auto vanuit richting Amsterdam/Den Haag
 
-Neem op de A13 afslag 10 (N470, Delft-Zuid).
+* Neem de A4 naar de Victor Hugoweg/S123/S124/S126 in IJsselmonde, Rotterdam. 
+* Neem de afrit bij knooppunt Benelux vanaf de A4.
+* Volg verdere beschrijving vanuit richting Rotterdam Auto vanuit richting Utrecht/Breda.
+* Neem de A16/E19 naar IJsselmonde, Rotterdam. 
+* Neem afrit IJsselmonde-Knooppunt Ridderkerk vanaf de A15.
+* Volg de 2 rechterrijstroken om afrit Ring Rotterdam (zuid) te nemen en in te voegen op de A15 richting Ring Rotterdam (zuid)/Europoort/Ridderkerk/Havens.
+* Volg de middelste rijstrook om de borden A15/Zierikzee/Europoort/A29 te volgen.
+* Houd rechts aan en rij door op de Afslag 19a.
+* Volg verdere beschrijving vanuit richting Rotterdam.
 
-* Bij stoplichten rechtsaf, TU Delft – Delftech park.
-* Zie verder beschrijving vanuit richting Rotterdam.
+## OV vanuit Rotterdam/Amsterdam/Utrecht/Breda Vanaf station Lombardijen (reistijd 5-10 min) 
 
-![Routebeschrijving auto]({{ "/assets/images/route-auto-lijm-en-cultuur.png" }})
-
-## OV vanuit richting Rotterdam
-
-Stoptrein Delft Zuid, ongeveer 13 minuten lopen:
-
-* Neem de trap het viaduct op (Kruithuisweg) en boven linksaf slaan
-* Neem na 600 meter links de trap omlaag naar de Rotterdamseweg
-* Beneden gaat u naar rechts (noordelijke richting) langs de Rotterdamseweg
-* Na 500 meter ziet u links het toegangshek van Lijm & Cultuur.
-
-Of met [buslijn 40](https://www.ret.nl/home/reizen/dienstregeling/bus-40.html){:target="_blank"} of [buslijn 69](https://www.connexxion.nl/dienstregeling/lijn?id=W069&tijd=1631&dgCode=12345){:target="_blank"} vanaf station Delft. Uitstappen halte TU-Mekelpark.  
-Of met buslijn 40 vanaf Station Rotterdam Centraal. Uitstappen halte TU-Mekelpark.
-
-* De Cornelis Drebbelweg uitlopen
-* Aan het einde linksaf de Rotterdamseweg op
-* Na 200m ziet u het toegangshek van het terrein van Lijm & Cultuur.
+* Bus 143, 144, 70, 392, 190. Uitstappen bij bushalte Spinozaweg.
+* Tram 2 Richting Charlois. Uitstappen bij tramhalte Molenvliet.
+* Station Lombardijen is 15 min lopen naar Guido Gezelleweg vanaf Rotterdam Centraal (reistijd 35-40 min).
+* Tram 20 richting station Lombardijen.
+* Uitstappen bus/tramhalte Molenvliet.
+* 4/6 min lopen naar Guido Gezelleweg.
 
 Plan je reis en kijk voor vertrek op [www.9292ov.nl](http://www.9292ov.nl/){:target="_blank"} voor de meest recente dienstregeling.
-
-![Routebeschrijving ov]({{ "/assets/images/route-ov-lijm-en-cultuur.png" }})
-
-## OV vanuit richting Amsterdam / Den Haag
-
-Stoptrein Delft Zuid, ongeveer 13 minuten lopen (zie beschrijving vanuit richting Rotterdam).
-
-Of met buslijn 40 of 69 vanaf station Delft. Uitstappen halte TU-Mekelpark (zie beschrijving vanuit richting Rotterdam).
-
-## Eten en drinken
-
-Combineer uw bezoek aan onze tentcampagne met een fantastische lunch en/of diner in het restaurant van Lijm & Cultuur naast de tent. U kunt alleen online maaltijdbonnen bestellen (dus niet aan de kassa). Let op: U kunt bestellen tot uiterlijk dinsdag 7 augustus via [www.lijmencultuur.nl](https://www.lijmencultuur.nl){:target="_blank"}
