@@ -10,7 +10,9 @@ permalink: "/route/"
 Spinozapark  
 Guido Gezelleweg 1802  
 3076 JP  ROTTERDAM
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2463.1531597418266!2d4.519951655360913!3d51.876416739136104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c433b4bebc0d63%3A0x187abf9f4b416573!2sSpinozapark!5e0!3m2!1sen!2snl!4v1560451745467!5m2!1sen!2snl" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ## Auto vanuit richting Rotterdam
 
 * Neem de A4 naar de Victor Hugoweg/S123/S124/S126 in IJsselmonde, Rotterdam.
@@ -33,14 +35,15 @@ Parkeren is mogelijk in de directe omgeving.
 * Houd rechts aan en rij door op de Afslag 19a.
 * Volg verdere beschrijving vanuit richting Rotterdam.
 
-## OV vanuit Rotterdam/Amsterdam/Utrecht/Breda Vanaf station Lombardijen (reistijd 5-10 min) 
+## OV vanaf station Lombardijen
+Reistijd 5-10 min
 
 * Bus 143, 144, 70, 392, 190. Uitstappen bij bushalte Spinozaweg.
 * Tram 2 Richting Charlois. Uitstappen bij tramhalte Molenvliet.
-* Station Lombardijen is 15 min lopen naar Guido Gezelleweg vanaf Rotterdam Centraal (reistijd 35-40 min).
+* Station Lombardijen is 15 min lopen naar Guido Gezelleweg (vanaf Rotterdam Centraal is de reistijd 35-40 min).
 * Tram 20 richting station Lombardijen.
 * Uitstappen bus/tramhalte Molenvliet.
-* 4/6 min lopen naar Guido Gezelleweg.
+* 4-6 min lopen naar Guido Gezelleweg.
 
 Plan je reis en kijk voor vertrek op [www.9292ov.nl](http://www.9292ov.nl/){:target="_blank"} voor de meest recente dienstregeling.
 
